@@ -1,0 +1,20 @@
+{
+  "name": "@rx-irc/bot-admin",
+  "description": "Remote control module for RxBot.",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Florian Mäder <florian@maederbiel.ch>",
+  "main": "lib/module.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "release": {
+    "extends": "@fkm/semantic-release-config"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "@fkm/semantic-release-config": "^1.0.1"
+  }
+}
