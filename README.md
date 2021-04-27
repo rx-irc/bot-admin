@@ -8,4 +8,4 @@ Remote control module for RxBot.
 4. Run the bot with `npm start`.
 
 ## License
-Copyright 2016-2018, 2021 Florian Mäder - Permission granted under the [MIT license](LICENSE).
+Copyright Florian Mäder - Permission granted under the [MIT license](LICENSE).
