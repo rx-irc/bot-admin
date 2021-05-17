@@ -22,3 +22,6 @@ The admin module gives remote access to some administrative tasks via private me
 ### Brackets
 * Angle brackets indicate variable parts of the commands.
 * Round brackets indicate optional parameters.
+
+## Logging
+The scope for the `DEBUG` environment variable is `rx-irc:bot:admin`.

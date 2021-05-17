@@ -12,6 +12,7 @@
     "extends": "@fkm/semantic-release-config"
   },
   "dependencies": {
+    "debug": "^4.3.1",
     "rxjs": "^6.3.3"
   },
   "devDependencies": {
