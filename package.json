@@ -1,7 +1,7 @@
 {
   "name": "@rx-irc/bot-admin",
   "description": "Remote control module for RxBot.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "author": "Florian Mäder <florian@maederbiel.ch>",
   "main": "lib/module.js",

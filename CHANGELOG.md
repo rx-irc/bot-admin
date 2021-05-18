@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/rx-irc/bot-admin/compare/v1.0.0...v2.0.0) (2021-05-18)
+
+
+### Features
+
+* switch logging from Winston to debug ([2707c72](https://github.com/rx-irc/bot-admin/commit/2707c721900b004c89614263b317a4cef779bbf2))
+
+
+### BREAKING CHANGES
+
+* This requires a configuration update.
+
 # 1.0.0 (2021-04-25)
 
 
