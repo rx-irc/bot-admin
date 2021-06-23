@@ -10,14 +10,16 @@ The admin module gives remote access to some administrative tasks via private me
 * `topic <channel> <text>`
 * `kick <channel> <nick> (<reason>)`
 * `nick <newnick>`
-* `giveOps <channel> <nick ...>`
-* `takeOps <channel> <nick ...>`
-* `giveHops <channel> <nick ...>`
-* `takeHops <channel> <nick ...>`
-* `giveVoices <channel> <nick ...>`
-* `takeVoices <channel> <nick ...>`
+* `give op <channel> <nick ...>`
+* `take op <channel> <nick ...>`
+* `give hop <channel> <nick ...>`
+* `take hop <channel> <nick ...>`
+* `give voice <channel> <nick ...>`
+* `take voice <channel> <nick ...>`
 * `tell <channel/nick> <text>`
 * `notify <channel/nick> <text>`
+
+All commands are case-insensitive.
 
 ### Brackets
 * Angle brackets indicate variable parts of the commands.
