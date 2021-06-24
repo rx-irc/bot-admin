@@ -18,6 +18,7 @@ The admin module gives remote access to some administrative tasks via private me
 * `take voice <channel> <nick ...>`
 * `tell <channel/nick> <text>`
 * `notify <channel/nick> <text>`
+* `action <channel/nick> <text>`
 
 All commands are case-insensitive.
 
