@@ -1,3 +1,16 @@
+# [3.0.0](https://github.com/rx-irc/bot-admin/compare/v2.0.0...v3.0.0) (2021-07-23)
+
+
+### Features
+
+* implement action command ([805cc8f](https://github.com/rx-irc/bot-admin/commit/805cc8f73c942b5977b7fd9d94e88c9e9dd0603e))
+* switch to new client ([8c2b7ab](https://github.com/rx-irc/bot-admin/commit/8c2b7ab7745be1054d0fb01b401ae3d3b3cd1ee5))
+
+
+### BREAKING CHANGES
+
+* This needs a different co-dependency.
+
 # [2.0.0](https://github.com/rx-irc/bot-admin/compare/v1.0.0...v2.0.0) (2021-05-18)
 
 
